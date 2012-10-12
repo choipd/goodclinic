@@ -27,6 +27,7 @@ gem 'jquery-rails'
 gem 'underscore-rails'
 gem 'simple_form'
 gem 'bootstrap-kaminari-views'
+gem 'google-analytics-rails'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
